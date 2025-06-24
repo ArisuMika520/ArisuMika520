@@ -16,5 +16,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArisuMika520/ArisuMika520/main/out/github-snake.svg">
 </picture>
 
-##### Visit count (since 23 Feb 2025):
+##### Visit count (since 24 Jun 2025):
 ![](https://count.getloli.com/@ArisuMika?name=ArisuMika&theme=moebooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
