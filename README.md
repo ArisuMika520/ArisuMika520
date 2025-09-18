@@ -6,7 +6,7 @@
 
 ![skills](https://skillicons.dev/icons?perline=14&i=c,cpp,cs,unity,unreal,blender,lua,opencv,vue,html,css,js,python,java,git,github,vscode,visualstudio,md,vim,powershell,cmake,latex,docker,linux,arch,cloudflare,netlify,npm,ps,flask)
 
-![](https://arisu-github-readme.vercel.app/api?username=ArisuMika520&locale=en&line_height=33&show_icons=true&hide=&theme=tokyonight&rank_icon=default) ![](https://arisu-github-readme.vercel.app/api/top-langs/?username=ArisuMika520&locale=en&line_height=33&theme=tokyonight&langs_count=6&layout=compact)
+![](https://arisu-github-readme.vercel.app/api?username=ArisuMika520&locale=en&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=default) ![](https://arisu-github-readme.vercel.app/api/top-langs/?username=ArisuMika520&locale=en&line_height=33&theme=radical&langs_count=12&layout=compact)
 
 ---
 
