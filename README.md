@@ -7,7 +7,7 @@
 
 * [@Blog](https://blog.arisumika.top) [@Github](https://github.com/ArisuMika520)
 
-![skills](https://skillicons.dev/icons?perline=14&i=c,cpp,cs,unity,unreal,blender,lua,opencv,typescript,react,vue,html,css,js,python,java,git,github,vscode,visualstudio,md,vim,powershell,cmake,latex,docker,linux,arch,cloudflare,netlify,npm,ps,flask)
+![skills](https://skillicons.dev/icons?perline=14&i=c,cpp,cs,unity,unreal,blender,lua,opencv,python,typescript,react,vue,html,css,js,dart,flutter,java,git,github,vscode,visualstudio,md,vim,powershell,cmake,latex,docker,linux,arch,cloudflare,netlify,npm,ps,flask)
 
 ![](https://arisu-github-readme.vercel.app/api?username=ArisuMika520&locale=en&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=default) ![](https://arisu-github-readme.vercel.app/api/top-langs/?username=ArisuMika520&locale=en&line_height=33&theme=radical&langs_count=12&layout=compact)
 
