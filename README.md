@@ -1,6 +1,6 @@
 ## Hi there,I'm ArisuMika 👋
 * **An undergraduate student**
-* **A Tools Technical Artist（Full-stack、ML、Shader and so on）**
+* **A Developer（Full-stack、ML、Shader and so on）**
 
 ##### CodeTime count (since 26 Sep 2025):
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34682)](https://codetime.dev)
