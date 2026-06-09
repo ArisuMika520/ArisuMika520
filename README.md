@@ -5,6 +5,9 @@
 ##### CodeTime count (since 26 Sep 2025):
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34682)](https://codetime.dev)
 
+##### Code Status (Now):
+[![CodeTime Status](https://codetime.dev/api/widgets/status.svg?uid=34682&theme=light&style=minimal)](https://codetime.dev)
+
 * [@Blog](https://blog.arisumika.top) [@Github](https://github.com/ArisuMika520)
 
 ![skills](https://skillicons.dev/icons?perline=14&i=c,cpp,cs,unity,unreal,blender,lua,opencv,python,typescript,react,vue,redis,html,css,js,dart,flutter,java,git,github,vscode,visualstudio,md,vim,powershell,cmake,latex,docker,linux,arch,cloudflare,netlify,npm,ps,flask)
